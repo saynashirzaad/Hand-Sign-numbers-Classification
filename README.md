@@ -48,7 +48,7 @@ The repository contains the following files and directories:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/aliejabbari/hand-sign-classification.git
+git clone https://github.com/saynashirzaad/hand-sign-classification.git
 cd hand-sign-classification
 ```
 
@@ -73,6 +73,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contact
 
-For any inquiries or questions, please contact [alijabbari.contact@gmail.com](alijabbari.contact@gmail.com).
+For any inquiries or questions, please contact [saynashirzaad@gmail.com](saynashirzaad@gmail.com).
 
 ---
